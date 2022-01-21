@@ -1,23 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * CS312 Assignment 9.
- *
- * On my honor, Olamide Ogunsanya, this programming assignment is my own work
- * and I have not shared my solution with any other student in the class.
- *
- * Name: Olamide Ogunsanya 
- * email address: olamideogunsanya@utexas.edu 
- * UTEID: oto272
- * TA name: Kiana Fithian 
- * Number of slip days used on this assignment: 0
- * 
- * Program to decrypt a message that has been encrypted with a substitution
- * cipher. We assume only characters with ASCII codes from 32 to 126 inclusive
- * have been encrypted.
- */
-
 public class Decrypt {
 
 	final static int ALLVALUES = 128;
